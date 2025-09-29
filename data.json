@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ĐP Nam Size 2",
+      "type": "nam",
+      "size": 2,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 2,
+      "name": "ĐP Nam Size 3",
+      "type": "nam",
+      "size": 3,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 3,
+      "name": "ĐP Nam Size 4",
+      "type": "nam",
+      "size": 4,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 4,
+      "name": "ĐP Nam Size 5",
+      "type": "nam",
+      "size": 5,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 5,
+      "name": "ĐP Nam Size 6",
+      "type": "nam",
+      "size": 6,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 6,
+      "name": "ĐP Nam Size 7",
+      "type": "nam",
+      "size": 7,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 7,
+      "name": "ĐP Nam Size 8",
+      "type": "nam",
+      "size": 8,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 8,
+      "name": "ĐP Nam Size 10",
+      "type": "nam",
+      "size": 10,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 9,
+      "name": "ĐP Nữ Size 2",
+      "type": "nu",
+      "size": 2,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 10,
+      "name": "ĐP Nữ Size 3",
+      "type": "nu",
+      "size": 3,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 11,
+      "name": "ĐP Nữ Size 4",
+      "type": "nu",
+      "size": 4,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 12,
+      "name": "ĐP Nữ Size 5",
+      "type": "nu",
+      "size": 5,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 13,
+      "name": "ĐP Nữ Size 6",
+      "type": "nu",
+      "size": 6,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 14,
+      "name": "ĐP Nữ Size 7",
+      "type": "nu",
+      "size": 7,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 15,
+      "name": "ĐP Nữ Size 8",
+      "type": "nu",
+      "size": 8,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 16,
+      "name": "ĐP Nữ Size 10",
+      "type": "nu",
+      "size": 10,
+      "price": 90000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 17,
+      "name": "Thể dục Size 2",
+      "type": "the_duc",
+      "size": 2,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 18,
+      "name": "Thể dục Size 3",
+      "type": "the_duc",
+      "size": 3,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 19,
+      "name": "Thể dục Size 4",
+      "type": "the_duc",
+      "size": 4,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 20,
+      "name": "Thể dục Size 5",
+      "type": "the_duc",
+      "size": 5,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 21,
+      "name": "Thể dục Size 6",
+      "type": "the_duc",
+      "size": 6,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 22,
+      "name": "Thể dục Size 7",
+      "type": "the_duc",
+      "size": 7,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 23,
+      "name": "Thể dục Size 8",
+      "type": "the_duc",
+      "size": 8,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    },
+    {
+      "id": 24,
+      "name": "Thể dục Size 10",
+      "type": "the_duc",
+      "size": 10,
+      "price": 55000,
+      "stock": 0,
+      "imported": 0,
+      "sold": 0
+    }
+  ],
+  "salesHistory": [],
+  "importHistory": [],
+  "priceHistory": [],
+  "lastUpdated": "2025-09-29T03:56:43.648Z"
+}
