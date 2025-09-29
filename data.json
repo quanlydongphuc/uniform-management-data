@@ -6,8 +6,8 @@
       "type": "nam",
       "size": 2,
       "price": 90000,
-      "stock": 0,
-      "imported": 0,
+      "stock": 1,
+      "imported": 1,
       "sold": 0
     },
     {
@@ -242,7 +242,15 @@
     }
   ],
   "salesHistory": [],
-  "importHistory": [],
+  "importHistory": [
+    {
+      "products": [
+        "ĐP Nam Size 2: 1"
+      ],
+      "total": 1,
+      "timestamp": "10:59:44 29/9/2025"
+    }
+  ],
   "priceHistory": [],
-  "lastUpdated": "2025-09-29T03:56:43.648Z"
+  "lastUpdated": "2025-09-29T03:59:44.194Z"
 }
